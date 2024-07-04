@@ -1,2 +1,3 @@
-Regressão Linear em Python, fazendo previsao.
-Numpy foi importado neste repositório;
+Regressão Linear em Python realizado no Google Colab.
+Previsao sendo X(6) qual seria o y( ? )
+Quando variável X(6), y(12).
