@@ -3,7 +3,6 @@ Criando Algoritmo de Classe Regressão Linear
 A regressão linear é um método estatístico fundamental utilizado para modelar a relação entre uma variável dependente (também conhecida como variável resposta ou variável predita) e uma ou mais variáveis independentes (também chamadas de variáveis explicativas ou preditoras). Este método é amplamente utilizado em análise estatística e machine learning para entender a relação entre variáveis e fazer previsões.
 
 Funcionamento da Regressão Linear:
-Modelo Matemático:
 
 A regressão linear assume que a relação entre a variável dependente 
 𝑌 e as variáveis independentes 𝑋1,𝑋2,𝑋𝑝
