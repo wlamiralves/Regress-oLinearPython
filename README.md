@@ -202,8 +202,7 @@ Y
   
 i
 ​
-  são os valores preditos pelo modelo.
-Interpretação dos Coeficientes:
+  são os valores preditos pelo modelo. Interpretação dos Coeficientes:
 
 Os coeficientes estimados fornecem informações sobre a direção e magnitude da relação entre cada variável independente e a variável dependente. Um coeficiente positivo indica que um aumento na variável independente está associado a um aumento na variável dependente, enquanto um coeficiente negativo indica uma relação inversa.
 Avaliação do Modelo:
