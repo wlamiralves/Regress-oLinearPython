@@ -6,7 +6,7 @@ Funcionamento da Regressão Linear:
 Modelo Matemático:
 
 A regressão linear assume que a relação entre a variável dependente 
-𝑌 Y e as variáveis independentes 𝑋1,𝑋2,𝑋𝑝
+𝑌 e as variáveis independentes 𝑋1,𝑋2,𝑋𝑝
 
 O objetivo da regressão linear é encontrar os coeficientes que minimizam a soma dos quadrados dos resíduos.
 
@@ -15,9 +15,8 @@ Interpretação dos Coeficientes:
 Os coeficientes estimados fornecem informações sobre a direção e magnitude da relação entre cada variável independente e a variável dependente. Um coeficiente positivo indica que um aumento na variável independente está associado a um aumento na variável dependente, enquanto um coeficiente negativo indica uma relação inversa.
 Avaliação do Modelo:
 
-A qualidade do ajuste do modelo de regressão linear é frequentemente avaliada usando estatísticas como o coeficiente de determinação 
-𝑅 2 R 2
-Que quantifica a proporção da variabilidade da variável dependente que é explicada pelas variáveis independentes.
+A qualidade do ajuste do modelo de regressão linear é frequentemente avaliada usando estatísticas como o coeficiente de determinação que quantifica a proporção da variabilidade da variável dependente que é explicada pelas variáveis independentes.
+
 Aplicações da Regressão Linear:
 
 Previsão: Usado para prever valores futuros com base em padrões identificados nos dados históricos.
